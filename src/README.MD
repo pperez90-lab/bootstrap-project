@@ -83,6 +83,7 @@ The important design choice here is **keeping components small and focused**.
 ### 1. Clone and install
 
 git clone <https://github.com/pperez90-lab/bootstrap-project.git>
+
 cd bootstrap-project
 npm install
 
