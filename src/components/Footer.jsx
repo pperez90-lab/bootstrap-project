@@ -9,7 +9,7 @@ export default function Footer() {
         marginTop: "40px",
       }}
     >
-      <p>&copy; 2024 Bootstrap React Assignment.</p>
+      <p>&copy; 2025 Bootstrap React Assignment.</p>
     </footer>
   );
 }
