@@ -1,16 +1,67 @@
-# React + Vite
+# 🏪 Bootstrap Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Description
 
-Currently, two official plugins are available:
+A responsive web application built with React, Vite, and Bootstrap. This project demonstrates modern web development practices with component-based architecture and mobile-first responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 📱 Fully responsive Bootstrap components
+- ⚡ Fast loading with Vite build tool
+- ⚙️ React component architecture
+- 🎨 Modern UI with Bootstrap styling
+- 🔧 Hot module replacement for development
+- 📦 Optimized production build
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
 
-## Expanding the ESLint configuration
+- **React** - JavaScript library for building user interfaces
+- **Vite** - Next generation frontend tooling
+- **Bootstrap** - Popular CSS framework
+- **JavaScript** - Programming language
+- **HTML5 & CSS3** - Markup and styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/pperez90-lab/bootstrap-project.git
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm run dev
+```
+
+4. Open your browser and navigate to `http://localhost:5173`
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+The built files will be in the `dist` directory.
+
+## 📦 Available Scripts
+
+- `npm run dev` - Start development server with hot reload
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build locally
+- `npm run lint` - Run ESLint for code quality
+
+## 📝 License
+
+This project is open source and available for educational purposes.
